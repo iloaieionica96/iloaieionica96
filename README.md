@@ -1,8 +1,9 @@
 # Iloaie Ionică  
 **Frontend Developer | Web Developer**  
 📍 Feldru, Bistrița-Năsăud, Romania  
-📧 iloaieionica@gmail.com | 📞 +40 761 160 198  
-🔗 [LinkedIn](https://www.linkedin.com/in/iloaie-ionica/) | 💻 [GitHub](https://github.com/iloaieionica96)
+📧 iloaieionica@gmail.com
+📞 +40 761 160 198  
+🔗 [LinkedIn](https://www.linkedin.com/in/iloaie-ionica/) 
 
 ---
 
@@ -90,12 +91,6 @@ Technical University of Cluj Napoca | *2016 – 2020*
 
 ## 📂 Projects
 
-### Internship Web App  
-[GitHub](https://github.com/iloaieionica96)  
-- Created a scalable application using React, TypeScript, Redux, Firebase, and SCSS.  
-- Implemented authentication, routing, and global state.  
-- Focused on code quality with ESLint, Prettier, and modular components.
-
 > *Additional projects coming soon to GitHub.*
 
 ---
@@ -103,5 +98,5 @@ Technical University of Cluj Napoca | *2016 – 2020*
 ## 🌐 Languages
 
 - **Spanish** – Advanced  
-- **English** – Intermediate (comfortable with documentation and technical discussions)  
+- **English** – Intermediate 
 - **Romanian** – Native
