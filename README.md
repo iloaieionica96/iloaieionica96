@@ -1,89 +1,83 @@
-# Iloaie Ionică
+# Iloaie Ionică — Frontend Developer
 
-**Frontend Developer · React · Angular · Next.js · TypeScript**
-Building enterprise-grade UIs that perform. Open to new opportunities.
+**React · Next.js · Angular · TypeScript · Open to remote opportunities**
 
-📍 Romania · Remote-friendly · Open to relocation
-📧 iloaieionica@gmail.com · 📞 +40 761 160 198
-🔗 [LinkedIn](https://www.linkedin.com/in/iloaie-ionica/) · [GitHub](https://github.com/iloaieionica96)
+📍 Feldru, Romania — Remote-ready &nbsp;|&nbsp; 📧 iloaieionica@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/iloaie-ionica/)
 
 ---
 
 ## About
 
-Frontend Developer with 3+ years shipping production code for enterprise environments.
+Frontend Developer with **3+ years** owning the complete UI layer across **6 shipped production applications** — HR platforms, asset inventory systems, AI-assisted invoice matching, process optimisation tools, and real-estate portals.
 
-I build fast, scalable web applications: internal tools, dynamic dashboards, complex data tables, REST API integrations, and component libraries used daily by real teams.
+Built greenfield from scratch in React + TypeScript; reached for Next.js, Angular, Tailwind, Prisma, or D3.js when the project demanded it.
 
-Currently at **IT Perspectives**, where I've led frontend development on HR, procurement, invoicing, and asset management platforms — turning dense business logic into clean, maintainable interfaces.
+Works remotely in async Agile teams. Comfortable as sole frontend owner or as part of a larger squad.
 
-**What I bring to a team:**
+Currently at **IT Perspectives** (remote). Open to new opportunities.
 
-→ Reusable component architecture — React, Angular, Ant Design, Tailwind CSS
-→ REST API integration & performance optimization — Vite, lazy loading
-→ Agile workflow — Git, Azure DevOps, Scrum
-→ Ownership mindset — from requirement to deployment
+---
+
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Core** | React 18/19, Next.js 15, Angular, TypeScript, JavaScript ES6+, HTML5, CSS3 |
+| **UI & Styling** | Tailwind CSS, SCSS, Ant Design 5, PrimeReact, Storybook, mobile-first responsive layouts |
+| **State & Data** | React Query (TanStack), SWR, Redux, React Hook Form, REST APIs, Prisma, Firebase |
+| **Visualisation** | D3.js, Matomo analytics, Lighthouse performance auditing |
+| **Features shipped** | QR code generation, PDF viewer/export, role-based access control, email notifications, i18n |
+| **Tooling** | Git, Azure DevOps, GitLab, ESLint, Node.js, Agile / Scrum |
 
 ---
 
 ## Experience
 
 ### Frontend Developer — IT Perspectives
-**Jan 2023 – Present**
+`Jan 2023 – Present` · Remote
 
-Owned frontend development of enterprise internal tools covering HR, procurement, invoicing, and asset tracking — used across the organization daily.
+Sole or lead frontend developer across 5 client products simultaneously — each either built from zero or taken over mid-flight and shipped to production.
 
-- Architected modular React/Angular UIs with advanced data tables, dynamic forms, filters, QR scanning, and PDF export
-- Integrated REST APIs and cut load times via Vite bundling and lazy loading
-- Enforced UI consistency across products using SCSS, Tailwind CSS, and Ant Design
-- Shipped features iteratively in Agile sprints tracked via Git & Azure DevOps
+**Asset Inventory Platform** *(greenfield)*
+Built the entire frontend from scratch: filterable asset list with URL-persisted query params, role-gated CRUD with status transitions, ownership transfer with full audit log, QR code generation per asset, and scan-to-detail deep-link flow. Fully responsive — usable on mobile in the field.
+> React 18 · TypeScript · Ant Design 5 · React Query · html5-qrcode · i18next · Google Maps API
 
-**Stack:** React · Angular · TypeScript · Tailwind CSS · SCSS · Ant Design · Vite · REST API · Azure DevOps
+**HR Management Platform** *(greenfield)*
+Built a workforce management tool: employee directory, document vault (upload / preview / download scanned PDFs), leave-request workflow with role-triggered email notifications, and manager approval interface. Fully mobile-responsive.
+> React · TypeScript · REST APIs · RBAC · PDF viewer integration
+
+**AI-Assisted Invoice & Goods-Receipt Matching** *(greenfield)*
+Frontend for an OCR-powered invoice reconciliation tool at a construction company: split-screen PDF viewer + editable extracted data, inline OCR-error correction, manual line-item matching, and status progression (Pending → Confirmed → Payable).
+**Result: accounts-payable headcount dropped from ~10 people to 2.**
+> React · TypeScript · Tailwind CSS · PDF rendering · REST API integration
+
+**Process Optimisation Platform** *(greenfield, full-stack contribution)*
+All frontend pages + Next.js backend contribution: use-case catalogue with URL-persisted filters, PDF export, threaded comments, email feedback, user profile editor, and a live analytics dashboard (Matomo + custom D3.js). Backend via Prisma/PostgreSQL; client-side caching with SWR.
+> Next.js 15 · React 19 · TypeScript · Prisma · SWR · D3.js · Matomo · Nodemailer · Tailwind CSS
+
+**Real-Estate Offer & Asset Platform** *(existing codebase)*
+Shipped 10+ MRs in the first 3 months: notification bugs, modal UX, breadcrumb navigation, QR-code sending, PDF email attachments, and CSS regressions.
+> React · TypeScript
 
 ---
 
 ### Junior Frontend Developer — IT Perspectives
-**Aug 2022 – Dec 2022**
+`Aug 2022 – Dec 2022` · Remote
 
-Built a production React + Firebase web application from the ground up — authentication, routing, real-time Firestore data, and responsive UI — meeting full business and UX requirements on first delivery.
-
-- Delivered end-to-end frontend independently within 5 months
-- Collaborated directly with designers and senior devs through weekly review cycles
-- Established clean code patterns adopted by the broader team
-
-**Stack:** React · Firebase · Firestore · JavaScript · CSS
+**[Book Library App](https://github.com/iloaieionica96/itplibrary)** *(self-directed learning project)*
+Built a complete e-commerce-style book platform solo: home page, filterable catalogue, carousel, favourites, shopping cart, checkout flow, live order-status tracking, and authentication — all in React + TypeScript.
+> React · TypeScript · REST API integration
 
 ---
 
-### Education
-**M.Sc. Applied Informatics** — Technical University of Cluj-Napoca *(2020–2022)*
-**B.Sc. Automation & Applied Informatics** — Technical University of Cluj-Napoca *(2016–2020)*
+## Education
 
-Strong computer science foundation: algorithms, systems design, applied mathematics — academic background that reinforces production-level engineering judgment.
+**MSc Applied Informatics** — Technical University of Cluj-Napoca *(2020–2022)*
 
----
-
-## Skills
-
-| Area | Technologies |
-|---|---|
-| **Frontend** | React, Angular, Next.js, TypeScript, JavaScript (ES6+) |
-| **UI & Styling** | Tailwind CSS, SCSS, Ant Design, Prime React, Responsive layouts |
-| **State & Data** | Redux, React Hook Form, Firebase, REST API |
-| **Dev Tools** | Git, Azure DevOps, Vite, ESLint, Agile (Scrum) |
-| **Testing** | Manual UI testing, functional validation, bug tracking |
+**BSc Automation & Applied Informatics** — Technical University of Cluj-Napoca *(2016–2020)*
 
 ---
 
 ## Languages
 
-- 🇷🇴 Romanian — Native
-- 🇪🇸 Spanish — Advanced
-- 🇬🇧 English — Intermediate *(comfortable with technical discussions)*
-
----
-
-## Tips for recruiters
-
-> Pinned repos showcase React · Angular · TypeScript work.
-> Every repo is tagged: `react` `typescript` `frontend` `tailwind-css` for discoverability.
+🇷🇴 **Romanian** — Native &nbsp;|&nbsp; 🇪🇸 **Spanish** — C1 Advanced &nbsp;|&nbsp; 🇬🇧 **English** — A2 (actively improving)
